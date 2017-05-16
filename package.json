@@ -1,0 +1,15 @@
+{
+  "name": "@sirbimbus/npm-bubblesort",
+  "version": "0.0.2",
+  "description": "best module ever!",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Mike Limberg",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.4.1"
+  }
+}
